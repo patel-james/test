@@ -1,5 +1,4 @@
 Lebron 
-23-41
-4x NBA MVP
-4xx NBA champion
-
+Points: 18 
+Rebound: 6
+Assist: 7
